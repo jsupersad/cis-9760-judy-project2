@@ -1,7 +1,7 @@
 # Project 02 - Streaming and Query Finance Data
 
 ## Project Overview
-This project builds a real-time stock data pipeline using AWS cloud services. 
+Our final Project 2 builds a real-time stock data pipeline using AWS cloud services. 
 Historical daily stock price data was collected for 66 randomly selected S&P 500 
 companies using the Alpha Vantage API. The data was streamed through AWS Kinesis, 
 stored in Amazon S3, cataloged using AWS Glue, and queried using AWS Athena. 
